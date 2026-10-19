@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FolioVerse — Portfolio Template Generator
 
 A beginner-friendly responsive portfolio builder using HTML, CSS, JavaScript, and optional Supabase authentication/database.
@@ -42,3 +43,6 @@ A beginner-friendly responsive portfolio builder using HTML, CSS, JavaScript, an
 ## Notes
 - Without Supabase configuration, demo login is simulated in this browser only; data is stored in local storage and is not cloud-synced.
 - The profile picture field accepts a public image URL. For actual uploads, add Supabase Storage and validate file types/sizes.
+=======
+# Portfolio-Template-Generator
+>>>>>>> c5417f982836e72f892c6a8ef4885d36f0855c80
